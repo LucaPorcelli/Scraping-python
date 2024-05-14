@@ -3,14 +3,14 @@
 """
 Created on Mon Jan  2 17:23:39 2023
 
-@author: Vittom
+@author: Lucap
 """
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 Created on Mon Dec  5 09:46:24 2022
 
-@author: Vitto
+@author: Lucap
 """
 #pip install selenium
 import sys
